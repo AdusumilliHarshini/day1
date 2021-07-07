@@ -4,4 +4,4 @@
 
 
 ==Hyperlink==
-[https://www.aptitudetips.com click]
+<a href="https://www.aptitudetips.com/">click here</a>
